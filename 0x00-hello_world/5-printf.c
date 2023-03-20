@@ -6,8 +6,6 @@
  */
 int main(void)
 {
-	char obot[] = "with proper grammar, but the outcome is a piece of art,";
-
-	printf(obot);
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
